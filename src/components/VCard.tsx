@@ -142,7 +142,7 @@ const VCard = () => {
           <motion.div variants={itemVariants} className="space-y-3">
             <button
               onClick={handleSaveContact}
-              className="w-full bg-gradient-to-r from-orange-amber to-orange-light text-white py-3 px-6 rounded-xl font-semibold shadow-lg hover:shadow-xl transform hover:scale-105 transition-all duration-200 border-2 border-orange-amber"
+              className="w-full bg-gradient-to-r from-forest-green to-forest-light text-white py-3 px-6 rounded-xl font-semibold shadow-lg hover:shadow-xl transform hover:scale-105 transition-all duration-200 border-2 border-forest-green"
             >
               Enregistrer le contact
             </button>
